@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurePersonalCloud.Core", "SecurePersonalCloud.Core\SecurePersonalCloud.Core.csproj", "{F6761C08-49D1-45AD-9EC6-D5BE52A2187A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurePersonalCloud.Server", "SecurePersonalCloud.Server\SecurePersonalCloud.Server.csproj", "{442D4EE1-F99C-4F89-9B77-1DADC24CE146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurePersonalCloud.Client", "SecurePersonalCloud.Client\SecurePersonalCloud.Client.csproj", "{7284DB54-C069-48DA-866C-F64BDEAB93A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6761C08-49D1-45AD-9EC6-D5BE52A2187A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6761C08-49D1-45AD-9EC6-D5BE52A2187A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6761C08-49D1-45AD-9EC6-D5BE52A2187A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6761C08-49D1-45AD-9EC6-D5BE52A2187A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{442D4EE1-F99C-4F89-9B77-1DADC24CE146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442D4EE1-F99C-4F89-9B77-1DADC24CE146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442D4EE1-F99C-4F89-9B77-1DADC24CE146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442D4EE1-F99C-4F89-9B77-1DADC24CE146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7284DB54-C069-48DA-866C-F64BDEAB93A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7284DB54-C069-48DA-866C-F64BDEAB93A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7284DB54-C069-48DA-866C-F64BDEAB93A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7284DB54-C069-48DA-866C-F64BDEAB93A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
